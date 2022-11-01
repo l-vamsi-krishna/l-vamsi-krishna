@@ -7,4 +7,4 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💫 [Jira Automation](https://krishnavamsi.hashnode.dev/jira-automation)<!-- BLOGPOSTS:END -->
