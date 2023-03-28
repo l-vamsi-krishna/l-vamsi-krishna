@@ -7,5 +7,6 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - 💫 [Appian Integration with ChatGPT](https://krishnavamsi.hashnode.dev/appian-integration-with-chatgpt)
  - 💫 [Why motivational videos doesn&#39;t work.](https://krishnavamsi.hashnode.dev/why-motivation-videos-work-temporarily-4b67ec92b9e6)
- - 💫 [Jira Automation](https://krishnavamsi.hashnode.dev/jira-automation)<!-- BLOGPOSTS:END -->
+ - 🌮 [Jira Automation](https://krishnavamsi.hashnode.dev/jira-automation)<!-- BLOGPOSTS:END -->
